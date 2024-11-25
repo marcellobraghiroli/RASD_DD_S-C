@@ -1,0 +1,393 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
+  <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
+    <mxGraphModel dx="860" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=classic;endSize=6;strokeColor=#330000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;" edge="1" source="GR8K7cSDWmshRmGdHZiq-2" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="95" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-5" value="The student&amp;nbsp;&lt;div&gt;uplodes&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;a CV on&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;the platform&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-7" value="Available&lt;div&gt;student&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="75" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="260" as="sourcePoint" />
+            <mxPoint x="510" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="260" as="sourcePoint" />
+            <mxPoint x="330" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-10" value="The student selects&amp;nbsp;&lt;div&gt;an internship&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="50" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-13" value="Selected&amp;nbsp;&lt;div&gt;student&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="220" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-15" value="Waiting for&lt;div&gt;company&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="75" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-16" value="A company selects&lt;div&gt;the student CV&lt;/div&gt;&lt;div&gt;for an internship&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-18" value="Completed&amp;nbsp;&lt;div&gt;match&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-12" target="GR8K7cSDWmshRmGdHZiq-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="260" as="sourcePoint" />
+            <mxPoint x="360" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-11" target="GR8K7cSDWmshRmGdHZiq-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="260" as="sourcePoint" />
+            <mxPoint x="360" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-21" value="The corersponding&amp;nbsp;&lt;div&gt;company selects&lt;/div&gt;&lt;div&gt;the student CV&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="140" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-22" value="The&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;student selects&lt;/span&gt;&lt;div&gt;&lt;div&gt;the corresponding&lt;/div&gt;&lt;div&gt;&amp;nbsp;intenship&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="180" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-17" target="GR8K7cSDWmshRmGdHZiq-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="320" as="sourcePoint" />
+            <mxPoint x="360" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-23" target="GR8K7cSDWmshRmGdHZiq-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="340" as="sourcePoint" />
+            <mxPoint x="380" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-28" value="Selection&lt;div&gt;process&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="360" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-30" value="Active&lt;div&gt;internship&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-32" value="The company plans&lt;div&gt;an interview with&amp;nbsp;&lt;/div&gt;&lt;div&gt;the student&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-33" value="The company admits&lt;div&gt;the student for the&lt;/div&gt;&lt;div&gt;internship&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-23" target="GR8K7cSDWmshRmGdHZiq-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="330" y="20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="380" />
+              <mxPoint x="710" y="30" />
+              <mxPoint x="330" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-35" value="The company rejects&lt;div&gt;the student for the&lt;/div&gt;&lt;div&gt;internship&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="180" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-36" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="365" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-37" value="" style="endArrow=classic;endFill=1;endSize=6;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="350" y="270" as="sourcePoint" />
+            <mxPoint x="100" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-38" value="The intenship program&lt;div&gt;terminates&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-39" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-40" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=classic;endSize=6;strokeColor=#330000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="615" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-41" value="The company&amp;nbsp;&lt;div&gt;publishes an internship&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;doucment on&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;the platform&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="540" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-43" value="Available&lt;div&gt;internship&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="595" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="780" as="sourcePoint" />
+            <mxPoint x="520" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="780" as="sourcePoint" />
+            <mxPoint x="340" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-46" value="A student selects&amp;nbsp;&lt;div&gt;the internship&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-49" value="Waiting for&lt;div&gt;student&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="740" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-50" value="Selected&lt;div&gt;internship&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="595" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-51" value="The company selects&lt;div&gt;a student CV&lt;/div&gt;&lt;div&gt;for the internship&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="660" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-53" value="Completed&amp;nbsp;&lt;div&gt;match&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="740" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-48" target="GR8K7cSDWmshRmGdHZiq-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="780" as="sourcePoint" />
+            <mxPoint x="370" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-47" target="GR8K7cSDWmshRmGdHZiq-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="780" as="sourcePoint" />
+            <mxPoint x="370" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-56" value="The&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;company&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;selects&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;the corresponding&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;student CV&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="660" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-57" value="The corresponding&lt;div&gt;&amp;nbsp;student selects&lt;div&gt;the intenship&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-52" target="GR8K7cSDWmshRmGdHZiq-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="840" as="sourcePoint" />
+            <mxPoint x="370" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-58" target="GR8K7cSDWmshRmGdHZiq-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="860" as="sourcePoint" />
+            <mxPoint x="390" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-62" value="Selection&lt;div&gt;process&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="880" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-63" value="Active&lt;div&gt;internship&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-64" value="The company plans&lt;div&gt;an interview with&amp;nbsp;&lt;/div&gt;&lt;div&gt;the student&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="800" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-65" value="The company admits&lt;div&gt;the student for the&lt;/div&gt;&lt;div&gt;internship&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="840" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-58" target="GR8K7cSDWmshRmGdHZiq-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="860" as="sourcePoint" />
+            <mxPoint x="340" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="900" />
+              <mxPoint x="720" y="550" />
+              <mxPoint x="340" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-67" value="The company rejects&lt;div&gt;the student for the&lt;/div&gt;&lt;div&gt;internship&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="700" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-68" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="885" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-69" value="" style="endArrow=classic;endFill=1;endSize=6;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-59" target="GR8K7cSDWmshRmGdHZiq-68">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="790" as="sourcePoint" />
+            <mxPoint x="520" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-70" value="The intenship program&lt;div&gt;terminates&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="860" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-71" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1080" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-72" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=classic;endSize=6;strokeColor=#330000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="1094.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="1094.5" />
+            </Array>
+            <mxPoint x="110" y="1094.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-73" value="A match or an active&lt;div&gt;internship is created&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1050" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-74" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1065" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-75" value="Available" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1080" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-78" value="Filled out" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1065" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-79" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-74" target="GR8K7cSDWmshRmGdHZiq-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="1120" as="sourcePoint" />
+            <mxPoint x="360" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-80" value="A user fills out&amp;nbsp;&lt;div&gt;the questionnaire&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1050" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-81" value="Evaluated" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-82" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-78" target="GR8K7cSDWmshRmGdHZiq-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1240" as="sourcePoint" />
+            <mxPoint x="450" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-83" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-84" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-81" target="GR8K7cSDWmshRmGdHZiq-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1140" as="sourcePoint" />
+            <mxPoint x="450" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-85" value="The system evaluates&lt;div&gt;the questionnaire&lt;/div&gt;&lt;div&gt;(positive/negative)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-86" value="The system feeds statistical&lt;div&gt;analysis for recommendation&lt;/div&gt;&lt;div&gt;process&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1180" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-87" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1400" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-89" value="A match&amp;nbsp;&lt;div&gt;is created&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1370" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-90" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-91" value="Interview&lt;div&gt;set up&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1395" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-92" value="Available" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-93" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-90" target="GR8K7cSDWmshRmGdHZiq-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="1440" as="sourcePoint" />
+            <mxPoint x="360" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-94" value="The company publishes&lt;div&gt;the questionnaire&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1370" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-95" value="Filled out" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-96" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-92" target="GR8K7cSDWmshRmGdHZiq-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1560" as="sourcePoint" />
+            <mxPoint x="450" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-97" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1550" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-98" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-101" target="GR8K7cSDWmshRmGdHZiq-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="1620" as="sourcePoint" />
+            <mxPoint x="450" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-99" value="The matching student&lt;div&gt;fills out the questionnaire&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1470" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-100" value="The system assigns&lt;div&gt;a grade to the&lt;/div&gt;&lt;div&gt;&amp;nbsp;questionnaire&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1500" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-101" value="Graded" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-102" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-95" target="GR8K7cSDWmshRmGdHZiq-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1610" as="sourcePoint" />
+            <mxPoint x="400" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-103" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GR8K7cSDWmshRmGdHZiq-87" target="GR8K7cSDWmshRmGdHZiq-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="1440" as="sourcePoint" />
+            <mxPoint x="290" y="1460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GR8K7cSDWmshRmGdHZiq-104" value="The system provides&lt;div&gt;the result to&amp;nbsp;&lt;/div&gt;&lt;div&gt;the company&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="1500" width="130" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
