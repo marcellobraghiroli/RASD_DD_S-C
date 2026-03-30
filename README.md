@@ -9,9 +9,7 @@ The goal of this project was to define a **RASD (Requirement Analysis and Specif
 # Project Requirements
 *Students&Companies (S&C)* is a platform that helps match university **students** looking for internships
 and **companies** offering them. The platform should ease the matching between students and
-companies based on:
-- the experiences, skills and attitudes of students, as listed in their CVs;
-- the projects (application domain, tasks to be performed, relevant adopted technologies-if anyetc.) and terms offered by companies (for example, some company might offer paid internships
+companies based on the experiences, skills and attitudes of students, as listed in their CVs, and the projects (application domain, tasks to be performed, relevant adopted technologies-if anyetc.) and terms offered by companies (for example, some company might offer paid internships
 and/or provide both tangible and intangible benefits, such as training, mentorships, etc.).
 
 The platform is used by companies to **advertise the internships that they offer**, and by students to **look
@@ -21,6 +19,7 @@ students when an internship that might interest them becomes available and can i
 about the availability of student CVs corresponding to their needs. Recommendation in S&C can employ mechanisms of various level of sophistication to match students
 with internships, from simple keyword searching, to statistical analyses based on the characteristics of
 students and internships.
+
 When suitable recommendations are identified and accepted by the two parties, a contact is
 established. After a contact is established, a **selection process** starts. During this process, **companies
 interview students** (and collect answers from them, possibly through structured questionnaires) to
@@ -29,9 +28,11 @@ manage (set up, conduct, etc.) interviews and also finalize the selections.
 To feed **statistical analysis applied during recommendation**, S&C collects various kinds of information
 regarding the internships, for example by asking students and companies to provide feedback and
 suggestions.
+
 Moreover, S&C should be able to **provide suggestions both to companies and to students** regarding
 how to make their submissions (project descriptions for companies and CVs for students) more
 appealing for their counterparts.
+
 In general, S&C provides interested parties with **mechanisms to keep track and monitor the execution
 and the outcomes of the matchmaking process and of the subsequent internships** from the point of
 view of all interested parties. For example, it provides spaces where interested parties can complain,
