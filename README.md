@@ -13,6 +13,7 @@ companies based on:
 - the experiences, skills and attitudes of students, as listed in their CVs;
 - the projects (application domain, tasks to be performed, relevant adopted technologies-if anyetc.) and terms offered by companies (for example, some company might offer paid internships
 and/or provide both tangible and intangible benefits, such as training, mentorships, etc.).
+
 The platform is used by companies to **advertise the internships that they offer**, and by students to **look
 for internships.** Students can be proactive when they look for internships (i.e., they initiate the process,
 go through the available internships, etc.). Moreover, the system has a **recommendation mechanism** to inform
